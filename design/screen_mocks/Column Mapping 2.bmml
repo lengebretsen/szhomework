@@ -1,0 +1,89 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="824" measuredH="555" mockupW="805" mockupH="535">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="19" y="20" w="805" h="535" measuredW="805" measuredH="535" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="805" h="535" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>A%20Web%20Page%0Ahttp%3A//homework.schoolzilla.com</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="119" y="106" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Map%20Column</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="47" y="141" w="686" h="232" measuredW="290" measuredH="111" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Student%20Number%2C%20Math%20Score%2C%20Science%20Score%0A1597530%2C%20100%2C%2080%0A2468975%2C%2085%2C%20%0A8675309%2C%20blue%2C%2095</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="355" y="106" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Map%20Column</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="573" y="106" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Map%20Column</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="177" y="91" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <dragger>false</dragger>
+            <text>Map%20Column%20-%20Student%20Number</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="504" y="449" w="-1" h="-1" measuredW="108" measuredH="27" zOrder="6" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Ok%2C%20Cancel</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="355" y="155" w="218" h="-1" measuredW="92" measuredH="24" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>ID%20Column</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="196" y="157" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="8" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Column%20Type</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::HRule" x="177" y="194" w="450" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="0"/>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="355" y="245" w="218" h="-1" measuredW="79" measuredH="24" zOrder="10" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Numeric</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="196" y="247" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="11" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Data%20Value%20Type</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::ComboBox" x="355" y="294" w="218" h="-1" measuredW="94" measuredH="24" zOrder="12" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>student_id</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="196" y="296" w="121" h="-1" measuredW="114" measuredH="21" zOrder="13" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Destination%20Column</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="196" y="209" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="14" locked="false" isInGroup="0">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Value%20Mapping</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="196" y="126" w="-1" h="-1" measuredW="101" measuredH="21" zOrder="15" locked="false" isInGroup="0">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Column%20Mapping</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

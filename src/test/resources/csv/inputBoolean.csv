@@ -1,0 +1,11 @@
+Student Number,Speaks Spanish,Speaks French,Speaks English,Speaks Mandarin
+1,false,false,false,true
+2,false,true,true,true
+3,true,true,true,true
+4,false,false,false,false
+5,false,true,false,false
+6,false,true,false,true
+7,false,true,true,false
+8,false,true,false,true
+9,false,true,true,purple
+10,true,true,,true

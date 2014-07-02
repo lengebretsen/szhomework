@@ -1,0 +1,20 @@
+[
+  {
+    "sourcePosition":0,
+    "columnType":"ID",
+    "valueMapping":{
+      "dataType":"NUMERIC",
+      "destinationColumn":"student_id",
+      "destinationPosition":0
+    }
+  },
+  {
+    "sourcePosition":1,
+    "columnType":"ID",
+    "valueMapping":{
+      "dataType":"NUMERIC",
+      "destinationColumn":"student_sdf",
+      "destinationPosition":1
+    }
+  }
+]
